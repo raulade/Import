@@ -27,14 +27,11 @@ This creates the jar file in the ‘target’ folder
 
 ### 3. Execute automation suite
 Execute the jar from the target folder on the application code deployed. In this example, the application code is run on <base_env>
-**Command to use:**
-
-_cd target/_
-
-_java -Denv.user=qa -Denv.endpoint=<base_env> -Denv.testLevel=smoke -jar automationtests-refactor-0.12.12-jar-with-dependencies.jar_
+<br>**Command to use:**<br>
+<br>_cd target/_<br>
+<br>_java -Denv.user=qa -Denv.endpoint=<base_env> -Denv.testLevel=smoke -jar automationtests-refactor-0.12.12-jar-with-dependencies.jar_<br>
 
 **Details of the arguments used**
-
 _env.user_ = user of the env on which you will run the jar file. Change ‘qa’ to a valid user id on the test env.
 
 _env.endpoint_ = env where the application under test is deployed. Change the env hostname from <base_env> to any env that you will work on
