@@ -6,7 +6,7 @@ For Windows
 1. Java (8 or above) and Maven (3.6.0) software should be installed on the machine from where the automation tests will be executed
 2. Git bash (2.18.0.windows.1)
 3. settings.xml needs to be present in one place
-<br>- regular maven conf folder<br>
+<br> * regular maven conf folder <br>
 4. Update the following configuration files under the automationtests/src/main/resources folder for the DB details; DB url, username, password as appropriate
 - auditqa.cfg.xml
 - kernelqa.cfg.xml
