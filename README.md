@@ -23,14 +23,14 @@ For Linux
 ### 1. Access Test Automation Code
 
 From Browser:
-1. ‘Clone or download’ https://github.com/mosip/mosip-functional-tests as zip<br> 
+* ‘Clone or download’ https://github.com/mosip/mosip-functional-tests as zip<br> 
 1. Unzip the contents
 1. Continue with below steps from a terminal (Linux) or command prompt (Windows)
 
 From Git Bash:
-    * Copy the git link i.e "https://github.com/mosip/mosip-functional-tests"
-    * On your local sytem, gitbash at any location
-    * Run the "git clone https://github.com/mosip/mosip-functional-tests" command
+* Copy the git link i.e "https://github.com/mosip/mosip-functional-tests"
+* On your local sytem, gitbash at any location
+* Run the "git clone https://github.com/mosip/mosip-functional-tests" command
 
 Make sure pom.xml file lists all the dependencies, as it is used to build the automation code.
 Edit the pom.xml for the latest version of mosip platform Eg: <version>0.12.16</version>
