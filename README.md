@@ -23,9 +23,9 @@ For Linux
 ### 1. Access Test Automation Code
 
 From Browser:
-<br>1. ‘Clone or download’ https://github.com/mosip/mosip-functional-tests as zip 
-1. Unzip the contents
-1. Continue with below steps from a terminal (Linux) or command prompt (Windows)<br>
+<br>1. ‘Clone or download’ https://github.com/mosip/mosip-functional-tests as zip<br> 
+<br>2. Unzip the contents<br>
+<br>3. Continue with below steps from a terminal (Linux) or command prompt (Windows)<br>
 
 From Git Bash:
 - Copy the git link i.e "https://github.com/mosip/mosip-functional-tests"
