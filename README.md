@@ -24,8 +24,8 @@ For Linux
 
 From Browser:
 <br>1. ‘Clone or download’ https://github.com/mosip/mosip-functional-tests as zip<br> 
-<br>2. Unzip the contents<br>
-<br>3. Continue with below steps from a terminal (Linux) or command prompt (Windows)<br>
+2. Unzip the contents
+3. Continue with below steps from a terminal (Linux) or command prompt (Windows)
 
 From Git Bash:
 - Copy the git link i.e "https://github.com/mosip/mosip-functional-tests"
