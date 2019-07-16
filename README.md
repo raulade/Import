@@ -6,25 +6,26 @@ For Windows
 1. Java (8 or above) and Maven (3.6.0) software should be installed on the machine from where the automation tests will be executed
 1. Git bash (2.18.0.windows.1)
 1. settings.xml needs to be present in one place
-* regular maven conf folder
+   * regular maven conf folder
 1. Update the following configuration files under the automationtests/src/main/resources folder for the DB details; DB url, username, password as appropriate
-   - auditqa.cfg.xml
-- kernelqa.cfg.xml
-- masterdataqa.cfg.xml
-- preregqa.cfg.xml
-- regproc.cfg.xml
+   * auditqa.cfg.xml
+   * kernelqa.cfg.xml
+   * masterdataqa.cfg.xml
+   * preregqa.cfg.xml
+   * regproc.cfg.xml
 
 For Linux
 1. Assume Java (8 or above), Maven (3.6.0) and Git softwares are available
 2. settings.xml file needs to be present in two places
-- regular maven conf folder
-- copy the same settings.xml under /usr/local/maven/conf
+   * regular maven conf folder
+   * copy the same settings.xml under /usr/local/maven/conf
 
 ### 1. Access Test Automation Code
+
 From Browser:
--	‘Clone or download’ https://github.com/mosip/mosip-functional-tests as zip 
--	Unzip the contents
-- Continue with below steps from a terminal (Linux) or command prompt (Windows)
+* ‘Clone or download’ https://github.com/mosip/mosip-functional-tests as zip 
+* Unzip the contents
+* Continue with below steps from a terminal (Linux) or command prompt (Windows)
 
 From Git Bash:
 - Copy the git link i.e "https://github.com/mosip/mosip-functional-tests"
