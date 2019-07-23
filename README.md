@@ -66,3 +66,8 @@ The version of the jar file name changes as per development code version.
 
 Example: Current version of Dev [code base](https://github.com/mosip/mosip-platform) is 0.12.16 so the jar name will be automationtests-refactor-0.12.16-jar-with-dependencies.jar
 
+﻿id,uin,name,email,mobile,status_code,lang_code,last_login_method,is_active,cr_by,cr_dtimes,eff_dtimes
+110001,5402120055,Sravya,hortense.dauenhauer@xyz.com,975366148,ACT,eng,PWD,TRUE,superadmin,now(),now()
+
+﻿
+
